@@ -33,6 +33,10 @@ Make sensible decisions about what to display in terms of usability. Include com
 
 ## Final Product 
 ### Screen 1
-![My image](https://github.com/spike321/SimpleWeather/blob/master/raw/Vg375si.png)
+<img src="https://github.com/spike321/SimpleWeather/blob/master/raw/Vg375si.png" width="430" height="700" />
 ###Screen 2
-![My image](https://github.com/spike321/SimpleWeather/blob/master/raw/ijEPH36.png)
+<img src="https://github.com/spike321/SimpleWeather/blob/master/raw/ijEPH36.png" width="430" height="700" />
+
+
+
+
