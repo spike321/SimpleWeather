@@ -39,7 +39,7 @@
         android:textAppearance="?android:attr/textAppearanceSmall"
         android:textColor="#1684ca"
         />
-    
+
     <TextView
         android:id="@+id/weather_icon"
         android:layout_width="wrap_content"
