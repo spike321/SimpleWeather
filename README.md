@@ -33,6 +33,6 @@ Make sensible decisions about what to display in terms of usability. Include com
 
 ## Final Product 
 ### Screen 1
-![Screenshot](http://imgur.com/Vg375si)
+![My image](https://github.com/spike321/SimpleWeather/blob/master/raw/Vg375si.png)
 ###Screen 2
-![Screenshot](http://imgur.com/ijEPH36)
+![My image](https://github.com/spike321/SimpleWeather/blob/master/raw/ijEPH36.png)
