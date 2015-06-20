@@ -34,5 +34,6 @@ Make sensible decisions about what to display in terms of usability. Include com
 ## Final Product 
 ### Screen 1
 ![Screenshot]\(http://imgur.com/ncTOYYX)
+![Screenshot](http://i.imgur.com/ebuHuem.png)
 ###Screen 2
 ![Screenshot]\(http://imgur.com/ijEPH36)
