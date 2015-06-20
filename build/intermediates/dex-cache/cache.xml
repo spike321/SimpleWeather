@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Sahiti\AndroidStudioProjects\SimpleWeather1056\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\libs\internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="C:\Users\Sahiti\AndroidStudioProjects\SimpleWeather1056\app\build\intermediates\pre-dexed\debug\internal_impl-22.1.1-9e0c7641999baec505018b50bc78dfdc47f88b2b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sahiti\AndroidStudioProjects\SimpleWeather1056\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="C:\Users\Sahiti\AndroidStudioProjects\SimpleWeather1056\app\build\intermediates\pre-dexed\debug\classes-8200abe19121ceeccc4142f04ba7ee04c3585607.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sahiti\AndroidStudioProjects\SimpleWeather1056-copy\SimpleWeather1056\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="C:\Users\Sahiti\AndroidStudioProjects\SimpleWeather1056-copy\SimpleWeather1056\app\build\intermediates\pre-dexed\debug\classes-cd94cfdb8046e58a53df942ab4de5b6db443d146.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sahiti\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.1.1\support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="C:\Users\Sahiti\AndroidStudioProjects\SimpleWeather1056\app\build\intermediates\pre-dexed\debug\support-annotations-22.1.1-3fc495ef34f57077ecf65ed7af4898c5ce3e8649.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sahiti\AndroidStudioProjects\SimpleWeather1056-copy\SimpleWeather1056\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="C:\Users\Sahiti\AndroidStudioProjects\SimpleWeather1056-copy\SimpleWeather1056\app\build\intermediates\pre-dexed\debug\classes-7fed201c662855bb09494ba32c5ece96d5dfc5fa.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sahiti\AndroidStudioProjects\SimpleWeather1056\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="C:\Users\Sahiti\AndroidStudioProjects\SimpleWeather1056\app\build\intermediates\pre-dexed\debug\classes-72112aae81c4ff69dea94b6699c4f7bbcda59a6c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sahiti\AndroidStudioProjects\SimpleWeather1056-copy\SimpleWeather1056\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\libs\internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="C:\Users\Sahiti\AndroidStudioProjects\SimpleWeather1056-copy\SimpleWeather1056\app\build\intermediates\pre-dexed\debug\internal_impl-22.1.1-3266b99510000364b6545663beab7590e0c0744c.jar" />
+    </item>
+
+</items>
